@@ -5,4 +5,5 @@ class CustomTheme {
   static Color mainColor = const Color(0xffFE9879);
   static Color lightgrayCode = const Color(0xff969AA8);
   static Color lightGoogleSignInCode = const Color(0xff134140);
+  static Color lightBlack = const Color(0xff15224F);
 }
