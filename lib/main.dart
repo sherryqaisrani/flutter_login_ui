@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:login_screens/screens/login_screen1.dart';
 import 'package:login_screens/screens/login_screen2.dart';
+import 'package:login_screens/screens/login_screen3.dart';
 import 'package:login_screens/screens/splashscreen.dart';
 
 void main() {
@@ -29,7 +30,7 @@ class MyApp extends StatelessWidget {
           home: child,
         );
       },
-      child: LoginScreen2(),
+      child: LoginScreen3(),
     );
   }
 }
