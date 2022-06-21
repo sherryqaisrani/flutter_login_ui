@@ -47,7 +47,7 @@ class SplashScreen extends StatelessWidget {
                   style: TextStyle(
                     fontSize: 30.sp,
                     fontWeight: FontWeight.w800,
-                    color: CustomTheme.mainColor,
+                    color: CustomTheme.mainOrangeColor,
                   ),
                 ),
               ],
@@ -63,7 +63,7 @@ class SplashScreen extends StatelessWidget {
                   style: TextStyle(
                     fontSize: 30.sp,
                     fontWeight: FontWeight.w800,
-                    color: CustomTheme.mainColor,
+                    color: CustomTheme.mainOrangeColor,
                   ),
                 ),
                 SizedBox(
